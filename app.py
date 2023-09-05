@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 #import tensorflow as tf
 #from tensorflow import keras
-#from sklearn.preprocessing import StandardScaler
+from sklearn.preprocessing import StandardScaler
 
 # Load your pre-trained model
 model = keras.Sequential()
