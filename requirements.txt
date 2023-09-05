@@ -1,5 +1,4 @@
 #tensorflow
-sklearn
 numpy
 pandas
 streamlit
